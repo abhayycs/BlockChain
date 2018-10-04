@@ -1,6 +1,6 @@
 # BlockChain
 Remote Software Update using BlockChain Technology
-This mini project is just to enable the features of remote software update using block chain technology to check the integrity of a software.
+Enable the features of remote software update using block chain technology to verify the integrity of a software file uploaded by the software provider.
 
 Create topology using mininet
 terminal 1 > 
